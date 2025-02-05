@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![roadmap.sh](https://roadmap.sh/card/tall/66c9857d92ec1a8a730f82b3?variant=dark)](https://roadmap.sh)
 <!--
 **Lord-baba99/Lord-baba99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
